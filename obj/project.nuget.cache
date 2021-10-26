@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bLy7fQK3spWOKLs3R5R87+Da/6E+cFjbxDSKgb8SaYc3y7sajTXxV1efA/6yfAEcCJqQ8McuLCnmasBjTihZAA==",
+  "success": true,
+  "projectFilePath": "/Users/danny/PrimeProjects/tier2/ClassWork/explore-dotnet-rest-api/explore-dotnet-rest-api.csproj",
+  "expectedPackageFiles": [
+    "/Users/danny/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/danny/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/danny/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/danny/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/danny/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/danny/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
